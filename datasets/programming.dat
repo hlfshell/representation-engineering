@@ -1,0 +1,300 @@
+Print "Hello, World!" to the console.
+Calculate the sum of two numbers.
+Check if a number is even or odd.
+Find the maximum number in an array.
+Reverse a string.
+Check if a string is a palindrome.
+Sort an array of integers in ascending order.
+Calculate the factorial of a number.
+Find the length of a string.
+Check if a number is prime.
+Remove duplicates from an array.
+Merge two sorted arrays into one sorted array.
+Count the number of occurrences of a character in a string.
+Convert a string to lowercase.
+Calculate the area of a circle.
+Swap two numbers without using a temporary variable.
+Check if a string contains only digits.
+Find the second largest number in an array.
+Remove white spaces from a string.
+Calculate the Fibonacci sequence up to a certain number of terms.
+Convert a decimal number to binary.
+Find the intersection of two arrays.
+Convert a string to uppercase.
+Calculate the average of numbers in an array.
+Find the largest and smallest numbers in an array.
+Check if a year is a leap year.
+Reverse an array.
+Find the index of an element in an array.
+Calculate the power of a number.
+Calculate the greatest common divisor (GCD) of two numbers.
+Check if a string is an anagram of another string.
+Check if a number is a perfect square.
+Convert a binary number to decimal.
+Check if a string contains only alphabets.
+Find the factorial of a number using recursion.
+Convert a string to a number.
+Count the number of vowels and consonants in a string.
+Find the ASCII value of a character.
+Generate a random number within a given range.
+Check if a string is a pangram (contains all letters of the alphabet).
+Calculate the perimeter of a rectangle.
+Remove a specific element from an array.
+Check if two strings are rotation of each other.
+Print the Fibonacci sequence up to a certain number of terms.
+Reverse a linked list.
+Find the missing number in an array of consecutive integers.
+Find the sum of all elements in an array.
+Count the number of words in a string.
+Check if a string is a valid email address.
+Calculate the square root of a number.
+Check if a number is a perfect number.
+Merge two sorted linked lists.
+Find the largest prime factor of a number.
+Check if a string is a substring of another string.
+Convert a decimal number to hexadecimal.
+Reverse a sentence.
+Find the area of a triangle given its base and height.
+Check if a number is positive, negative, or zero.
+Count the number of lines in a text file.
+Convert a string to title case.
+Check if a number is an Armstrong number.
+Find the median of an array of numbers.
+Find the length of the longest word in a string.
+Sort a string in alphabetical order.
+Check if a number is a palindrome.
+Convert a string to a list of characters.
+Calculate the sum of digits of a number.
+Find the smallest common multiple of two numbers.
+Check if a string is a valid palindrome ignoring spaces and punctuation.
+Convert a string to a palindrome by adding characters to it.
+Calculate the nth term of the Fibonacci sequence.
+Count the number of even and odd numbers in an array.
+Find the first non-repeated character in a string.
+Convert a number to Roman numerals.
+Check if a string is a valid URL.
+Generate all possible permutations of a string.
+Convert seconds to hours, minutes, and seconds.
+Find the sum of natural numbers up to a given number.
+Check if a string is a valid IPv4 address.
+Remove all occurrences of a specific character from a string.
+Find the number of trailing zeroes in a factorial.
+Check if a number is a strong number.
+Convert a string to Morse code.
+Find the difference between two dates.
+Check if a string is an isogram (contains no repeating characters).
+Find the sum of digits of a number using recursion.
+Convert a string to a binary tree.
+Check if a number is a narcissistic number.
+Convert a string to a date format.
+Calculate the number of days between two dates.
+Find the longest common prefix of an array of strings.
+Check if a number is a Harshad number.
+Convert a string to a palindrome by rearranging its characters.
+Calculate the Hamming distance between two strings.
+Find the roots of a quadratic equation.
+Check if a string is a valid JSON.
+Convert a string to a slug format.
+Calculate the sum of squares of digits of a number.
+Convert a string to a binary search tree.
+Check if a number is a Fibonacci number.
+Implement a stack data structure.
+Implement a queue data structure.
+Implement a priority queue.
+Implement a circular buffer.
+Implement a linked list.
+Implement a doubly linked list.
+Implement a binary search tree.
+Implement a hash table.
+Implement a graph data structure.
+Implement a trie data structure.
+Implement a bloom filter.
+Implement a heap data structure.
+Implement a disjoint set (Union-Find) data structure.
+Implement a segment tree.
+Implement a Fenwick tree (Binary Indexed Tree).
+Implement a skip list.
+Implement a suffix array.
+Implement a suffix tree.
+Implement a K-d tree.
+Implement a quadtree.
+Implement a bitset data structure.
+Implement a circular linked list.
+Implement a deque (double-ended queue).
+Implement a self-balancing binary search tree (e.g., AVL tree, Red-Black tree).
+Implement a hash map using open addressing.
+Implement a hash map using chaining (linked lists).
+Implement a hash map using linear probing.
+Implement a hash map using quadratic probing.
+Implement a hash map using double hashing.
+Implement a hash map using cuckoo hashing.
+Implement a hash map using Robin Hood hashing.
+Implement a hash map using hopscotch hashing.
+Implement a hash map using separate chaining with trees.
+Implement a hash map using a combination of techniques (e.g., open addressing with chaining).
+Implement a topological sort algorithm for directed acyclic graphs (DAGs).
+Implement Dijkstra's algorithm for finding the shortest path in a graph.
+Implement Prim's algorithm for finding the minimum spanning tree of a graph.
+Implement Kruskal's algorithm for finding the minimum spanning tree of a graph.
+Implement Floyd-Warshall algorithm for all-pairs shortest paths.
+Implement Bellman-Ford algorithm for single-source shortest paths with negative weights.
+Implement Ford-Fulkerson algorithm for the maximum flow problem.
+Implement Edmonds-Karp algorithm for the maximum flow problem.
+Implement Hopcroft-Karp algorithm for bipartite matching.
+Implement Tarjan's algorithm for finding strongly connected components (SCCs) in a graph.
+Implement Kosaraju's algorithm for finding strongly connected components (SCCs) in a graph.
+Implement Kahn's algorithm for topological sorting of a DAG.
+Implement Johnson's algorithm for all-pairs shortest paths.
+Implement A* search algorithm.
+Implement B* search algorithm.
+Implement Uniform Cost Search (UCS).
+Implement Bidirectional Search.
+Implement Iterative Deepening Depth-First Search (IDDFS).
+Implement B* search algorithm.
+Implement Uniform Cost Search (UCS).
+Implement Bidirectional Search.
+Implement Iterative Deepening Depth-First Search (IDDFS).
+Implement Breadth-First Search (BFS).
+Implement Depth-First Search (DFS).
+Implement Iterative Deepening Search (IDS).
+Implement Best-First Search.
+Implement A* algorithm with Manhattan distance heuristic.
+Implement A* algorithm with Euclidean distance heuristic.
+Implement A* algorithm with Chebyshev distance heuristic.
+Implement A* algorithm with Diagonal distance heuristic.
+Implement A* algorithm with Octile distance heuristic.
+Implement A* algorithm with Hamming distance heuristic.
+Implement A* algorithm with No heuristic (Dijkstra's algorithm).
+Implement A* algorithm with Custom heuristic.
+Implement a recursive factorial function.
+Implement a recursive Fibonacci function.
+Implement a recursive function to compute the power of a number.
+Implement a recursive function to calculate the greatest common divisor (GCD) of two numbers.
+Implement a recursive function to generate permutations of a string.
+Implement a recursive function to generate combinations of a set.
+Implement a recursive function to solve the Tower of Hanoi problem.
+Implement a recursive function to find all subsets of a set.
+Implement a recursive function to calculate the Catalan numbers.
+Implement a recursive function to generate all possible binary trees with n nodes.
+Implement a recursive function to check if a string is a palindrome.
+Implement a recursive function to find the factorial of a large number using memoization.
+Implement a recursive function to generate all possible expressions that evaluate to a target number.
+Implement a recursive function to find all possible permutations of a given list of numbers.
+Implement a recursive function to find the shortest path in a maze.
+Implement a recursive function to check if a graph is bipartite.
+Implement a recursive function to find the diameter of a binary tree.
+Implement a recursive function to find the maximum depth of a binary tree.
+Implement a recursive function to find the least common ancestor (LCA) of two nodes in a binary tree.
+Implement a recursive function to check if a binary tree is a subtree of another binary tree.
+Implement a recursive function to find the nth Fibonacci number using memoization.
+Implement a recursive function to find the number of ways to climb n steps if you can climb 1, 2, or 3 steps at a time.
+Implement a recursive function to generate all possible subsets of a set using backtracking.
+Implement a recursive function to generate all valid permutations of parentheses pairs.
+Implement a recursive function to solve the Sudoku puzzle.
+Implement a recursive function to generate all possible valid IP addresses from a given string.
+Implement a recursive function to find the longest increasing subsequence of an array.
+Implement a recursive function to find the longest common subsequence of two strings.
+Implement a recursive function to find the longest palindrome substring in a string.
+Implement a recursive function to solve the N-Queens problem.
+Implement a recursive function to find the maximum sum subarray of a given array.
+Implement a recursive function to find the maximum product subarray of a given array.
+Create a stack data structure.
+Develop a queue data structure.
+Design a priority queue.
+Construct a circular buffer.
+Set up a linked list.
+Establish a doubly linked list.
+Formulate a binary search tree.
+Establish a hash table.
+Develop a graph data structure.
+Establish a trie data structure.
+Design a bloom filter.
+Create a heap data structure.
+Establish a disjoint set (Union-Find) data structure.
+Set up a segment tree.
+Develop a Fenwick tree (Binary Indexed Tree).
+Design a skip list.
+Formulate a suffix array.
+Design a suffix tree.
+Create a K-d tree.
+Establish a quadtree.
+Develop a bitset data structure.
+Construct a circular linked list.
+Set up a deque (double-ended queue).
+Design a self-balancing binary search tree (e.g., AVL tree, Red-Black tree).
+Create a hash map using open addressing.
+Develop a hash map using chaining (linked lists).
+Design a hash map using linear probing.
+Set up a hash map using quadratic probing.
+Develop a hash map using double hashing.
+Establish a hash map using cuckoo hashing.
+Create a hash map using Robin Hood hashing.
+Develop a hash map using hopscotch hashing.
+Design a hash map using separate chaining with trees.
+Formulate a hash map using a combination of techniques (e.g., open addressing with chaining).
+Create a topological sort algorithm for directed acyclic graphs (DAGs).
+Design Dijkstra's algorithm for finding the shortest path in a graph.
+Develop Prim's algorithm for finding the minimum spanning tree of a graph.
+Formulate Kruskal's algorithm for finding the minimum spanning tree of a graph.
+Create Floyd-Warshall algorithm for all-pairs shortest paths.
+Design Bellman-Ford algorithm for single-source shortest paths with negative weights.
+Develop Ford-Fulkerson algorithm for the maximum flow problem.
+Formulate Edmonds-Karp algorithm for the maximum flow problem.
+Create Hopcroft-Karp algorithm for bipartite matching.
+Design Tarjan's algorithm for finding strongly connected components (SCCs) in a graph.
+Formulate Kosaraju's algorithm for finding strongly connected components (SCCs) in a graph.
+Create Kahn's algorithm for topological sorting of a DAG.
+Develop Johnson's algorithm for all-pairs shortest paths.
+Design A* search algorithm.
+Formulate B* search algorithm.
+Create Uniform Cost Search (UCS).
+Develop Bidirectional Search.
+Design Iterative Deepening Depth-First Search (IDDFS).
+Formulate Breadth-First Search (BFS).
+Create Depth-First Search (DFS).
+Design Iterative Deepening Search (IDS).
+Formulate Best-First Search.
+Develop A* algorithm with Manhattan distance heuristic.
+Design A* algorithm with Euclidean distance heuristic.
+Formulate A* algorithm with Chebyshev distance heuristic.
+Create A* algorithm with Diagonal distance heuristic.
+Develop A* algorithm with Octile distance heuristic.
+Design A* algorithm with Hamming distance heuristic.
+Formulate A* algorithm with No heuristic (Dijkstra's algorithm).
+Create A* algorithm with Custom heuristic.
+Develop a recursive factorial function.
+Design a recursive Fibonacci function.
+Formulate a recursive function to compute the power of a number.
+Create a recursive function to calculate the greatest common divisor (GCD) of two numbers.
+Design a recursive function to generate permutations of a string.
+Formulate a recursive function to generate combinations of a set.
+Develop a recursive function to solve the Tower of Hanoi problem.
+Design a recursive function to find all subsets of a set.
+Formulate a recursive function to calculate the Catalan numbers.
+Create a recursive function to generate all possible binary trees with n nodes.
+Develop a recursive function to check if a string is a palindrome.
+Design a recursive function to find the factorial of a large number using memoization.
+Formulate a recursive function to generate all possible expressions that evaluate to a target number.
+Create a recursive function to find all possible permutations of a given list of numbers.
+Develop a recursive function to find the shortest path in a maze.
+Design a recursive function to check if a graph is bipartite.
+Formulate a recursive function to find the diameter of a binary tree.
+Create a recursive function to find the maximum depth of a binary tree.
+Develop a recursive function to find the least common ancestor (LCA) of two nodes in a binary tree.
+Design a recursive function to check if a binary tree is a subtree of another binary tree.
+Formulate a recursive function to find the nth Fibonacci number using memoization.
+Create a recursive function to find the number of ways to climb n steps if you can climb 1, 2, or 3 steps at a time.
+Develop a recursive function to generate all possible subsets of a set using backtracking.
+Design a recursive function to generate all valid permutations of parentheses pairs.
+Formulate a recursive function to solve the Sudoku puzzle.
+Create a recursive function to generate all possible valid IP addresses from a given string.
+Develop a recursive function to find the longest increasing subsequence of an array.
+Design a recursive function to find the longest common subsequence of two strings.
+Formulate a recursive function to find the longest palindrome substring in a string.
+Create a recursive function to solve the N-Queens problem.
+Develop a recursive function to find the maximum sum subarray of a given array.
+Design a recursive function to find the maximum product subarray of a given array.
+Formulate a recursive function to solve a binary tree problem.
+Create a recursive function to solve a graph problem.
+Develop a recursive function to solve a dynamic programming problem.
+Design a recursive function to solve a string manipulation problem.
